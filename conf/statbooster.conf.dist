@@ -154,7 +154,7 @@ StatBooster.SoundId = 120
 ########################################
 #
 #	StatBooster.SoulbindOnEnchantRoll
-#		Description: Enable/Disable binding enchanted item when won through a roll.
+#		Description: 通过掷骰赢得时，启用/禁用绑定附魔物品。
 #		Default:	0 - (Disabled)
 #		            1 - (Enabled)
 #
@@ -163,7 +163,7 @@ StatBooster.SoulbindOnEnchantRoll = 0
 
 #
 #	StatBooster.SoulbindOnEnchantLoot
-#		Description: Enable/Disable binding enchanted item looted
+#		Description: 启用/禁用绑定被掠夺的附魔物品
 #		Default:	0 - (Disabled)
 #		            1 - (Enabled)
 #
@@ -172,7 +172,7 @@ StatBooster.SoulbindOnEnchantLoot = 0
 
 #
 #	StatBooster.SoulbindOnEnchantQuest
-#		Description: Enable/Disable binding enchanted item received from quest
+#		Description: 启用/禁用绑定从任务中获得的附魔物品
 #		Default:	0 - (Disabled)
 #		            1 - (Enabled)
 #
@@ -181,7 +181,7 @@ StatBooster.SoulbindOnEnchantQuest = 0
 
 #
 #	StatBooster.SoulbindOnEnchantCraft
-#		Description: Enable/Disable binding enchanted item crafted
+#		Description: 启用/禁用绑定附魔物品
 #		Default:	0 - (Disabled)
 #		            1 - (Enabled)
 #
